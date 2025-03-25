@@ -1,0 +1,64 @@
+# 🚀 Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*.so
+*.pyo
+*.pyd
+
+# 🚀 Conda & Virtual Environment
+venv/
+env/
+.venv/
+*.venv
+conda-meta/
+*.egg-info/
+Pipfile.lock
+poetry.lock
+
+# 🚀 Logs & Debug Files
+logs/
+*.log
+*.out
+*.err
+
+# 🚀 Model & Checkpoints
+*.h5
+*.pth
+*.ckpt
+*.tflite
+*.onnx
+*.pb
+checkpoints/
+saved_models/
+
+# 🚀 Jupyter & Kaggle Notebook Cache
+.ipynb_checkpoints/
+.kaggle/
+*.ipynb_checkpoints
+
+# 🚀 Data & Temporary Files
+data/
+datasets/
+*.csv
+*.json
+*.zip
+*.tar.gz
+*.hdf5
+
+# 🚀 Outputs & Plots
+*.png
+*.jpg
+*.jpeg
+*.svg
+outputs/
+results/
+figures/
+
+# 🚀 IDE & Editor Files
+.vscode/
+.idea/
+*.iml
+
+# 🚀 System Files
+.DS_Store
+Thumbs.db
